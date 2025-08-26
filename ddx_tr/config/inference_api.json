@@ -1,0 +1,22 @@
+{
+    "model_url": "http://127.0.0.1:8001/v1",
+    "model": "Qwen",
+    "openai_api_key": "EMPTY",
+    "temperature": 0.75,
+    "top_p": 0.65,
+    "with_shot": true,
+    "with_inference_ref": true,
+    "inference_task": "treatment",
+    "disease_class": "data/reference/disease_all_class.json",
+    "reference": "data/reference/reference.json",
+    "bookclass": "data/reference/class_from_book.json",
+    "stop_token_ids": "",
+    "system_role": "data/reference/model_role.json",
+    "addmission_ind": "当前入院录:\n",
+    "diagnosis_ind": "诊断结果:\n",
+    "inference_ind": "参考信息:\n",
+    "shot_ind": "参考例子:\n",
+    "block_flag": "\n---\n",
+    "save_path": "data/result",
+    "test_data": "data/test_set/debug_cased.json"
+}
