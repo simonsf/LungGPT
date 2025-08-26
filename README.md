@@ -9,7 +9,7 @@ This repository is for the proposed LungGPT framework used for generating diagno
 
 The repository consists of several components:
 
-### to be added
-To be added.
-***
+## Code sharing for LungGPT🤖
+For the diagnosis results generating, please go to the `./diagnosis` and refer to the readme file.
 
+For the diagnosis bases and treatment plans generating, please go to the `./ddx_tr` and refer to the readme file.
