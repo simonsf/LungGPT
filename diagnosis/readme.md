@@ -2,8 +2,6 @@
 
  Expert-level large language model for tailored respiratory disease diagnosis and treatment
 
- 定制化的呼吸系统疾病诊疗大模型
-
 ##  Data
 Due to the sensitivity of clinical data, it will not be made public. 
 Desensitized cases are provided for reference instead.
